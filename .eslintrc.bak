@@ -12,12 +12,6 @@
     "expect": true
   },
   "parser": "@babel/eslint-parser",
-  "parserOptions": {
-    "requireConfigFile": true,
-    "babelOptions": {
-      "configFile": "./.babelrc"
-    }
-  },
   "rules": {
     "no-console": 0,
     "no-trailing-spaces": 1,
