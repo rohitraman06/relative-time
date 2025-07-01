@@ -49,7 +49,7 @@
     "eslint-config-defaults": "^9.0.0",
     "iana-tz-data": "^2019.1.0",
     "mocha": "^10.2.0",
-    "sinon": "^7.5.0"
+    "sinon": "^17.0.1"
   },
   "dependencies": {
     "globalize": "^1.7.0",
